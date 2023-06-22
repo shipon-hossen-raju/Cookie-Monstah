@@ -1,0 +1,322 @@
+[
+   {
+      "id": 101,
+      "chef_picture": "https://i.ibb.co/1GyfMnF/chef-image-1-min.jpg",
+      "chef_profile_image": "https://i.ibb.co/8KBJgjB/chef-image-1-removebg.png",
+      "chef_name": "Alice Smith",
+      "years_of_experience": 10,
+      "number_of_recipes": 50,
+      "likes": 5000,
+      "description": "Alice is a classically trained chef with a passion for creating innovative dishes. She has worked in top restaurants around the world and has won multiple awards for her culinary creations.",
+      "recipes": [
+         {
+            "recipe_image": "https://www.healthyseasonalrecipes.com/wp-content/uploads/2022/11/crispy-seared-salmon-hero-sq-32-640x480.jpg",
+            "recipe_name": "Pan-Seared Salmon",
+            "ingredients": [
+               "salmon fillets",
+               "olive oil",
+               "salt",
+               "pepper",
+               "lemon"
+            ],
+            "cooking_method": "Heat a large skillet over medium-high heat. Season the salmon with salt and pepper. Add the olive oil to the skillet and swirl to coat. Add the salmon to the skillet and cook for 3-4 minutes per side, until golden brown and cooked through. Squeeze fresh lemon juice over the salmon before serving.",
+            "rating": 4.5
+         },
+         {
+            "recipe_image": "https://cdn77-s3.lazycatkitchen.com/wp-content/uploads/2019/11/vegan-mushroom-risotto-close-1000x1500.jpg",
+            "recipe_name": "Mushroom Risotto",
+            "ingredients": [
+               "arborio rice",
+               "chicken broth",
+               "butter",
+               "olive oil",
+               "mushrooms"
+            ],
+            "cooking_method": "In a large saucepan, heat the chicken broth over medium-high heat. In a separate large saucepan, melt the butter and olive oil over medium heat. Add the mushrooms and cook until they are tender and lightly browned. Add the arborio rice to the mushroom mixture and stir to coat. Gradually add the chicken broth to the rice, stirring constantly, until the rice is cooked through and the mixture is creamy and thick.",
+            "rating": 4.8
+         },
+         {
+            "recipe_image": "https://www.atablefullofjoy.com/wp-content/uploads/2020/05/Grilled-Chicken-Sandwich-Recipe-FEATURED.jpg",
+            "recipe_name": "Grilled Chicken Sandwich",
+            "ingredients": [
+               "chicken breasts",
+               "hamburger buns",
+               "lettuce",
+               "tomato",
+               "mayonnaise"
+            ],
+            "cooking_method": "Preheat the grill to medium-high heat. Season the chicken breasts with salt and pepper. Grill the chicken for 6-8 minutes per side, until cooked through. Toast the hamburger buns on the grill. Spread mayonnaise on the buns and top with lettuce, tomato, and the grilled chicken.",
+            "rating": 4.2
+         }
+      ]
+   },
+   {
+      "id": 102,
+      "chef_picture": "https://i.ibb.co/YXDbN0c/chef-image-2-min.jpg",
+      "chef_profile_image": "https://i.ibb.co/N24RjVM/chef-image-5-min-removebg.png",
+      "chef_name": "Bob Johnson",
+      "years_of_experience": 5,
+      "number_of_recipes": 20,
+      "likes": 1000,
+      "description": "Bob is a self-taught chef who loves to experiment with different flavors and ingredients. He specializes in fusion cuisine and is known for his bold and unconventional creations.",
+      "recipes": [
+         {
+            "recipe_image": "https://www.halfbakedharvest.com/wp-content/uploads/2019/05/Instant-Pot-Korean-Bulgogi-BBQ-Tacos-1.jpg",
+            "recipe_name": "Korean Tacos",
+            "ingredients": [
+               "beef short ribs",
+               "corn tortillas",
+               "gochujang",
+               "lime",
+               "cilantro"
+            ],
+            "cooking_method": "Season the beef short ribs with salt and pepper. Grill or broil the short ribs until cooked through. Cut the short ribs into bite-sized pieces. Warm the corn tortillas. In a small bowl, mix the gochujang with the lime juice. Spread the gochujang mixture on the tortillas. Top with the beef short ribs and garnish with cilantro.",
+            "rating": 4.6
+         },
+         {
+            "recipe_image": "https://assets.bonappetit.com/photos/57ae39cf1b33404414975be1/16:9/w_1280,c_limit/indian-style-cauliflower-646.jpg",
+            "recipe_name": "Indian-Spiced Cauliflower",
+            "ingredients": [
+               "cauliflower",
+               "garam masala",
+               "turmeric",
+               "coriander",
+               "cumin",
+               "garlic",
+               "ginger"
+            ],
+            "cooking_method": "Preheat the oven to 425°F. Cut the cauliflower into bite-sized florets. In a small bowl, mix the garam masala, turmeric, coriander, and cumin. In a large bowl, toss the cauliflower with the spice mixture, garlic, and ginger. Spread the cauliflower on a baking sheet and roast for 25-30 minutes, until golden brown and tender.",
+            "rating": 4.3
+         },
+         {
+            "recipe_image": "https://www.recipetineats.com/wp-content/uploads/2018/02/Thai-Red-Curry-Chicken-1.jpg",
+            "recipe_name": "Thai Coconut Curry",
+            "ingredients": [
+               "chicken thighs",
+               "coconut milk",
+               "red curry paste",
+               "bell peppers",
+               "basil"
+            ],
+            "cooking_method": "In a large skillet, heat the coconut milk over medium-high heat. Add the red curry paste and stir to combine. Add the chicken thighs to the skillet and cook for 5-7 minutes per side, until cooked through. Add the bell peppers to the skillet and cook for an additional 2-3 minutes. Garnish with fresh basil.",
+            "rating": 4.7
+         }
+      ]
+   },
+   {
+      "id": 103,
+      "chef_picture": "https://i.ibb.co/Lp1KT1v/chef-image-3-min.jpg",
+      "chef_profile_image": "https://i.ibb.co/HVcg9xC/chef-image-4-min-removebg.png",
+      "chef_name": "Catherine Lee",
+      "years_of_experience": 15,
+      "number_of_recipes": 100,
+      "likes": 8000,
+      "description": "Catherine is a passionate and creative chef who loves to experiment with different flavors and techniques. She has traveled the world and incorporates diverse cultural influences into her cooking.",
+      "recipes": [
+         {
+            "recipe_image": "https://images-gmi-pmc.edge-generalmills.com/e8b4f392-d17e-45dc-b142-1effc9a52db5.jpg",
+            "recipe_name": "Beef Stroganoff",
+            "ingredients": [
+               "beef tenderloin",
+               "onion",
+               "mushrooms",
+               "sour cream",
+               "paprika"
+            ],
+            "cooking_method": "In a large skillet, heat olive oil over medium-high heat. Add the beef tenderloin and cook for 2-3 minutes per side, until browned. Remove the beef from the skillet and set aside. Add the onion and mushrooms to the skillet and cook until tender. Add the beef back to the skillet and stir in the sour cream and paprika. Cook for an additional 2-3 minutes, until the sauce is heated through.",
+            "rating": 4.5
+         },
+         {
+            "recipe_image": "https://res.cloudinary.com/hsxfx8igq/image/upload/t_4x3_recipe_image,f_auto/v1612796720/Butter-Poached-Lobster-with-risotto-7_bgb9vf.jpg",
+            "recipe_name": "Lobster Risotto",
+            "ingredients": [
+               "lobster tails",
+               "arborio rice",
+               "chicken broth",
+               "white wine",
+               "butter"
+            ],
+            "cooking_method": "In a large saucepan, heat the chicken broth and white wine over medium-high heat. In a separate large saucepan, melt the butter over medium heat. Add the arborio rice to the butter and stir to coat. Gradually add the chicken broth and white wine mixture to the rice, stirring constantly, until the rice is cooked through and the mixture is creamy and thick. Grill or broil the lobster tails until cooked through. Remove the meat from the shells and chop into bite-sized pieces. Stir the lobster meat into the risotto.",
+            "rating": 4.8
+         },
+         {
+            "recipe_image": "https://cdn3.tmbi.com/toh/GoogleImagesPostCard/Warm-Roasted-Beet-Salad_EXPS_TGCBBZ17_40612_B05_10_1b.jpg",
+            "recipe_name": "Roasted Beet Salad",
+            "ingredients": [
+               "beets",
+               "goat cheese",
+               "arugula",
+               "walnuts",
+               "balsamic vinegar"
+            ],
+            "cooking_method": "Preheat the oven to 375°F. Wrap the beets in foil and roast for 45-60 minutes, until tender. Let the beets cool, then peel and slice them. Arrange the sliced beets on a bed of arugula. Crumble the goat cheese over the beets and sprinkle with chopped walnuts. Drizzle balsamic vinegar over the salad.",
+            "rating": 4.4
+         }
+      ]
+   },
+   {
+      "id": 104,
+      "chef_picture": "https://i.ibb.co/GCFJpvy/chef-image-4-min.jpg",
+      "chef_profile_image": "https://i.ibb.co/xCPSG5Y/chef-image-3-min-removebg.png",
+      "chef_name": "Juan Perez",
+      "years_of_experience": 10,
+      "number_of_recipes": 50,
+      "likes": 5000,
+      "description": "Juan is a Mexican chef who specializes in authentic, traditional cuisine. He learned to cook from his mother and grandmother, and has spent his career perfecting their recipes and techniques.",
+      "recipes": [
+         {
+            "recipe_image": "https://thestayathomechef.com/wp-content/uploads/2019/07/Tacos-al-Pastor-4.jpg",
+            "recipe_name": "Tacos al Pastor",
+            "ingredients": [
+               "pork shoulder",
+               "pineapple",
+               "onion",
+               "cilantro",
+               "corn tortillas"
+            ],
+            "cooking_method": "Marinate the pork shoulder in a mixture of pineapple juice, vinegar, and spices for at least 4 hours. Grill the pork until cooked through. Slice the pork into thin pieces. Grill the pineapple and onion until charred. Heat the corn tortillas on a griddle. Assemble the tacos with the pork, pineapple, onion, and cilantro.",
+            "rating": 4.9
+         },
+         {
+            "recipe_image": "https://food.fnr.sndimg.com/content/dam/images/food/fullset/2013/12/9/0/FNK_Chiles-Rellenos_s4x3.jpg.rend.hgtvcom.616.462.suffix/1387411229905.jpeg",
+            "recipe_name": "Chiles Rellenos",
+            "ingredients": [
+               "poblano peppers",
+               "ground beef",
+               "tomatoes",
+               "onion",
+               "monterey jack cheese"
+            ],
+            "cooking_method": "Char the poblano peppers on a grill or under a broiler until the skin is blackened. Let the peppers cool, then remove the skin and seeds. Cook the ground beef with tomatoes and onion until the beef is browned and the vegetables are tender. Stuff the beef mixture into the poblano peppers. Top with grated Monterey Jack cheese. Bake in a preheated 375°F oven for 10-15 minutes, until the cheese is melted and bubbly.",
+            "rating": 4.6
+         },
+         {
+            "recipe_image": "https://www.mamalatinatips.com/wp-content/uploads/2009/09/chicken-enchiladas-mlt.jpg",
+            "recipe_name": "Enchiladas Verdes",
+            "ingredients": [
+               "chicken breasts",
+               "tomatillos",
+               "jalapeños",
+               "onion",
+               "corn tortillas"
+            ],
+            "cooking_method": "Poach the chicken breasts in water until cooked through. Shred the chicken and set aside. Roast the tomatillos, jalapeños, and onion until tender and charred. Puree the roasted vegetables in a blender. Heat the corn tortillas on a griddle. Dip the tortillas in the pureed sauce, then fill with the shredded chicken. Roll up the tortillas and place them seam-side down in a baking dish. Pour the remaining sauce over the enchiladas. Bake in a preheated 375°F oven for 10-15 minutes, until heated through.",
+            "rating": 4.7
+         }
+      ]
+   },
+   {
+      "id": 105,
+      "chef_picture": "https://i.ibb.co/17HWBXv/chef-image-5-min.jpg",
+      "chef_profile_image": "https://i.ibb.co/zfNLq15/chef-image-5-min-removebg.png",
+      "chef_name": "Maria Rodriguez",
+      "years_of_experience": 8,
+      "number_of_recipes": 70,
+      "likes": 6000,
+      "description": "Maria is a vegetarian chef who is passionate about creating delicious, healthy meals that are packed with flavor. She believes that vegetarian food can be just as satisfying and delicious as meat-based dishes.",
+      "recipes": [
+         {
+            "recipe_image": "https://www.inspiredtaste.net/wp-content/uploads/2016/10/Easy-Vegetable-Lasagna-Recipe-1200.jpg",
+            "recipe_name": "Vegetable Lasagna",
+            "ingredients": [
+               "lasagna noodles",
+               "ricotta cheese",
+               "spinach",
+               "zucchini",
+               "tomato sauce"
+            ],
+            "cooking_method": "Cook the lasagna noodles according to package directions. Ina mixing bowl, combine the ricotta cheese, spinach, and diced zucchini. Spread a layer of tomato sauce in the bottom of a baking dish. Top with a layer of lasagna noodles. Spread a layer of the ricotta mixture over the noodles. Repeat the layers until all ingredients are used, ending with a layer of tomato sauce on top. Bake in a preheated 375°F oven for 30-35 minutes, until the cheese is melted and bubbly.",
+            "rating": 4.5
+         },
+         {
+            "recipe_image": "https://www.eazypeazymealz.com/wp-content/uploads/2016/07/Quinoa-and-Roasted-Vegetable-Salad-In-content-2.jpg",
+            "recipe_name": "Roasted Vegetable Quinoa Bowl",
+            "ingredients": [
+               "quinoa",
+               "sweet potato",
+               "broccoli",
+               "red bell pepper",
+               "red onion"
+            ],
+            "cooking_method": "Cook the quinoa according to package directions. Toss the diced sweet potato, broccoli, red bell pepper, and red onion with olive oil, salt, and pepper. Roast in a preheated 425°F oven for 20-25 minutes, until the vegetables are tender and browned. Divide the quinoa among bowls. Top with the roasted vegetables. Drizzle with balsamic glaze and sprinkle with chopped parsley.",
+            "rating": 4.6
+         },
+         {
+            "recipe_image": "https://www.recipetineats.com/wp-content/uploads/2019/10/Mushroom-Risotto_7.jpg",
+            "recipe_name": "Mushroom Risotto",
+            "ingredients": [
+               "arborio rice",
+               "mushrooms",
+               "vegetable broth",
+               "white wine",
+               "parmesan cheese"
+            ],
+            "cooking_method": "In a large pot, sauté the diced mushrooms until browned and tender. Add the arborio rice and stir to coat with the mushroom mixture. Add the white wine and stir until absorbed. Add the vegetable broth, one ladleful at a time, stirring constantly until the broth is absorbed before adding more. Continue adding broth and stirring until the rice is tender and the mixture is creamy. Stir in grated parmesan cheese. Serve hot.",
+            "rating": 4.8
+         }
+      ]
+   },
+   {
+      "id": 106,
+      "chef_picture": "https://i.ibb.co/XYFNPPS/chef-image-6-min.jpg",
+      "chef_profile_image": "https://i.ibb.co/SnPW7PJ/chef-image-6-removebg.png",
+      "chef_name": "Yuki Nakamura",
+      "years_of_experience": 12,
+      "number_of_recipes": 80,
+      "likes": 7000,
+      "description": "Yuki is a Japanese chef who specializes in sushi and other traditional Japanese dishes. She has trained in some of the best sushi restaurants in Japan and brings her skills and techniques to her own restaurant in the United States.",
+      "recipes": [
+         {
+            "recipe_image": "https://www.justonecookbook.com/wp-content/uploads/2020/01/Sushi-Rolls-Maki-Sushi-%E2%80%93-Hosomaki-1106-II.jpg",
+            "recipe_name": "Sushi Rolls",
+            "ingredients": [
+               "sushi rice",
+               "nori sheets",
+               "avocado",
+               "cucumber",
+               "crab meat"
+            ],
+            "cooking_method": "Cook the sushi rice according to package directions. Lay a sheet of nori on a bamboo sushi mat. Spread a thin layer of rice over the nori, leaving a 1-inch border at the top. Arrange sliced avocado, cucumber, and crab meat in a line across the center of the rice. Use the bamboo mat to roll the sushi, pressing gently to shape the roll. Repeat with remaining ingredients. Slice the rolls into bite-sized pieces and serve with soy sauce and wasabi.",
+            "rating": 4.9
+         },
+         {
+            "recipe_image": "https://www.crunchycreamysweet.com/wp-content/uploads/2020/01/shrimp-tempura-A.jpg",
+            "recipe_name": "Tempura Shrimp",
+            "ingredients": [
+               "shrimp",
+               "flour",
+               "cornstarch",
+               "egg",
+               "ice water"
+            ],
+            "cooking_method": "In a mixing bowl, whisk together flour, cornstarch, egg, and ice water to make a batter. Dip the shrimp in the batter and shake off any excess. Deep-fry the shrimp in hot oil until golden brown and crispy. Drain on paper towels. Serve hot with dipping sauce.",
+            "rating": 4.7
+         },
+         {
+            "recipe_image": "https://www.justonecookbook.com/wp-content/uploads/2022/06/Miso-Soup-8297-I-500x500.jpg",
+            "recipe_name": "Miso Soup",
+            "ingredients": [
+               "dashi broth",
+               "miso paste",
+               "tofu",
+               "green onions",
+               "seaweed"
+            ],
+            "cooking_method": "In a pot, bring dashi broth to a boil. Reduce heat to low. Dissolve miso paste in a small amount of the hot broth and add back to the pot. Add diced tofu and sliced green onions. Simmer for a few minutes. Remove from heat and add sliced seaweed. Serve hot.",
+            "rating": 4.5
+         },
+         {
+            "recipe_name": "Teriyaki Chicken",
+            "ingredients": [
+               "chicken breast",
+               "soy sauce",
+               "sugar",
+               "mirin",
+               "sesame seeds"
+            ],
+            "cooking_method": "Mix together soy sauce, sugar, and mirin to make the teriyaki sauce. Marinate chicken breast in the sauce for at least 30 minutes. Grill or pan-fry the chicken until cooked through. Sprinkle with sesame seeds before serving.",
+            "rating": 4.6
+         }
+      ]
+   }
+]

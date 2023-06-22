@@ -1,0 +1,3 @@
+.navLinks a.active {
+	@apply text-red-500;
+}

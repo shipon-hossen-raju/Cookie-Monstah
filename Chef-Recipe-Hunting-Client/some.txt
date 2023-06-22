@@ -1,0 +1,7 @@
+card/items info ->
+Chef Picture,
+Chef Name,
+Years of experience,
+Numbers of recipes,
+Likes,
+button
